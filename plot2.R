@@ -1,0 +1,1 @@
+# R file for Second Plot : Day vs Global Active Power

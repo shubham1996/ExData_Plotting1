@@ -1,0 +1,1 @@
+# R file for First Plot : Global Active Power vs Frequency
